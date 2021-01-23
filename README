@@ -1,9 +1,9 @@
-# Super XV6
+#Super XV6
 
-## Project was done to CSE335 Operating system, the following functionalities has been added to XV6:
+##Project was done to CSE335 Operating system, the following functionalities has been added to XV6:
 
-* Priority Scheduling Algorithm
-* MLFQ Scheduling algorithm
-* Shortest Job First Scheduling algorithm
-* LRU have been implemented in the OS' MMU (Memory Management Unit)
-* File system has been modified to support Extent based files
+*Priority Scheduling Algorithm
+*MLFQ Scheduling algorithm
+*Shortest Job First Scheduling algorithm
+*LRU have been implemented in the OS' MMU (Memory Management Unit)
+*File system has been modified to support Extent based files
